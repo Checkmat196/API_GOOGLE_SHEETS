@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dulcet-aileron-396713",
+  "private_key_id": "d0d58d04fb121c4f398847ce26c929cf0e2bac15",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDi63yv/4j/poRX\nkNxCIdapInPP3QAfh4L435AANNlbMieTd0JbFC8XPK6acOkztSHPH7mbMqHwOPej\n3CWOM4LApNXzfJ4RFF5tVG5aBR2zyG7g6zhtQbvsUlIjF7IPGfLCHjfvWTK2FG4k\nPKJSwX6VWWw/tQQI9C/oGevYOhepVf5b6AlZwgBOAIkQM9mVVfP54PkH0BVs3aMo\nzcY14y6TtgqE0+jx5GnRI+Ngtahd1VRY3hESC4+bjOKQ+OftaVFx6LSwuHRIT53X\nkmTwR2I/ZI5bk7Ru3qEwYAPnke7IFZ+zfec9HEfqHrudSD5yzjGj3TJ0xLStOAAk\n4Khnh2QzAgMBAAECggEAJdC7jzLk+EGeNV+JLSYpeTcqGJ5KOnbhPys2eqpT/Iwf\np0YNE1OKQ3OT313opvrM/xDY5AGslfVQY4i443k3FXaCxxhh2RPNZqfW2f6XRBIn\nVCku1ppJQGk5keqNfFHFME9L4AG73zcJYdWO8X6YYzgrP3ShjwJuh13mfTq1Hb1M\nFUEjY9kE9c9UXKMb2vsyw1kic5IoUBsEVkcAHA6bnvlTkfYQB6iG73Su1kpuA5y6\nYouXgjhioRt87HDEtLHSgxZP6de7onvh3MdM7lqP3T0LcZfqmrDMFAgSQTyG4Ok7\n3W02rR359wzVKxajEM2UbZ9MkG6eL2lcZbjL+mKtSQKBgQD1ebK3ex8AVBw41ijK\nR6ysFIwj4AtpnNkLSyR+UNSszpi4yRA/KUoGpjiRP4kroQ5d7ZNTkZeKQaKOK51W\nuDmoqpuDDiRThfm4w3r5JE6QSYx5LmD3Mu/c4SCxPDkQ93IJ0AezTOMx7QftsHqg\nWsPMwLn8s3hm1IOqpDqNze/quQKBgQDspiBZbe12KiXk/U+TOLpi5cp1kuvylWAC\ntdEqqemVsSsW2G2mfC/0sgBN8jeaNlTVUL8nXHmsaIcGfqgbbC/+jDCh2bfB3nCP\nussAcxxuoFNKc9OCca7T8rPlI4F2PC3aA1yanwvzQvrt2iZGmAIFRU+H2SfdJXIn\n1udMLtqgSwKBgDbatCImRD45jXjx+nmBXMeza8GUjlhScXoBl60WeQAIxr38SEIl\nAuLLgDaNASUbv28j6Nky3q9JjX7Bpk47qr7TKR83KMz1UmGEZVWJVHkPxnFJ+Ock\nnc85C6ovb/0nnncs4puhod+FPVFTL4Pn5Hs70hPzMwOfl7CpNGB91ZAZAoGBAIek\n7XP1Q6BwpknsPHl5kbRwXK0p6t6gamkDSIJ45C/uXnF42tkL4/0RLoV/KgnVzKh8\n4SSxp/h/7a12WetmBtiUCKgtAFw6oTBxdDysvoZWlYdefsUNXpWUTzMvN9zKv8lw\nFdt3AMWOBgDiAwCBzt6wjNakTWpANX/Kece8L4qjAoGAU6keY2LXpuyUfNLfKXqx\nsqm07v9y7CE5KS+8PPu0ConJUvsrslKB46VWrpOFRU91TOgX7HIMD2nw9F2zG6iu\nEbL43hd81fdZ+flVe9v1WueyZITk0xedV2+xxb74ks5VEvtJQu06Qf+KquuO5WFY\nrTgJoY6r0uouRklmGskL83k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kedu-631@dulcet-aileron-396713.iam.gserviceaccount.com",
+  "client_id": "106232592638424205298",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kedu-631%40dulcet-aileron-396713.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
