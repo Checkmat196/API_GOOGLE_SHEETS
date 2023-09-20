@@ -87,4 +87,4 @@ try:
 except Exception as e:
     print("Ocorreu um erro ao atualizar os dados!")
     print(str(e))
-    send_telegram_message(CHAT_ID, TOKEN, f"Erro ao atualizar os dados no Google Sheets! Detalhes: {str(e)}")
+    send_telegram_message(CHAT_ID, TOKEN, f"Erro ao atualizar os dados no Google Sheets! Detalhes: {str(e)}") 
